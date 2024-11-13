@@ -1,3 +1,4 @@
+/*
 import static org.junit.jupiter.api.Assertions.*;
 
 class Ukeoppgaver1Test {
@@ -40,3 +41,5 @@ class Ukeoppgaver1Test {
 
     }
 }
+
+ */

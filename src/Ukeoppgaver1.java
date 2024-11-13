@@ -1,3 +1,4 @@
+/*
 public class Ukeoppgaver1 {
     public static void main(String[] args) {
         System.out.println("Hello world");
@@ -33,3 +34,4 @@ public class Ukeoppgaver1 {
         return min_index;
     }
 }
+*/
