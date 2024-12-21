@@ -13,6 +13,8 @@ public class CircularBuffer {
         this.head = 0;
         this.tail = 0;
         this.count = 0;
+
+
     }
 
     void pushBack(char value) {
